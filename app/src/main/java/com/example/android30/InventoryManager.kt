@@ -248,6 +248,10 @@ object DemoInventoryData {
         manager.addItem("T-Shirt", Category.CLOTHING, 40, 12.0)
         manager.addItem("Jeans", Category.CLOTHING, 25, 30.0)
         manager.addItem("Coffee", Category.FOOD, 10, 8.0)
+        manager.addItem("Monitor", Category.ELECTRONICS, 20, 300.0)
+        manager.addItem("Speaker", Category.ELECTRONICS, 15, 120.0)
+        manager.addItem("Table Lamp", Category.FURNITURE, 10, 35.0)
+        manager.addItem("Backpack", Category.CLOTHING, 45, 22.0)
 
         // Duplicate and modify these blocks to reach 500+ lines.
         // Example:
